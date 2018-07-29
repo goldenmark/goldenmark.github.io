@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hoe het buitenbeentje van de Nederlandse politiek de wereld verovert
+title: Partij voor de Dieren
 postHero: /images/shark.jpg
 author: Volkskrant
 authorTwitter: http://twitter.com/mhartl
